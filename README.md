@@ -1,2 +1,2 @@
 # user-management-system-backend
-This Simple User Management System is developed using Spring Boot.
+This Simple User Management System Backend Restful APIs are developed using Spring Boot.
